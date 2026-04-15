@@ -2,7 +2,7 @@
 
 **BitcoinCash1** is one of several independent organizations, foundations, projects, and groups collaborating to maintain, promote, and build on the Bitcoin Cash blockchain. We emphasize decentralization, transparency, and community-driven development, encouraging anyone to participate, contribute, or establish their own organization to help grow the BCH ecosystem.
 
-> **Note:** The name "BitcoinCash1" is used because "bitcoincash" is currently restricted on GitHub. This does not imply exclusivity. There is no single official or central authority for Bitcoin Cash.
+> **Note:** The name "BitcoinCash1" is used because "BitcoinCash" is currently restricted on GitHub. This does not imply exclusivity. There is no single official or central authority for Bitcoin Cash.
 
 ---
 
